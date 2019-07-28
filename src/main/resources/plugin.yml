@@ -1,0 +1,16 @@
+name: Appel
+main: me.bukkit.quib.Appel
+version: 1.0
+commands:
+  discord:
+    description: Replies with an invite to the Appel Factory Discord.
+    usage: /<command>
+  tokens:
+    description: Replies with an invite to the Appel Factory Discord.
+    usage: /<command> <player>
+  givetoken:
+    description: Gives one teleport token.
+    usage: /<command> <player>
+  taketoken:
+    description: Removes one teleport token.
+    usage: /<command> <player>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nuvotifier-universal-2.3.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Local Minecraft Server/plugins/nuvotifier-universal-2.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
